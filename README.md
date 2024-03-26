@@ -24,8 +24,8 @@ This demo Flask application illustrates a simple implementation of Role-Based Ac
 1. Clone the repository:
 
    ```
-   git clone https://your-repository-url-here.git
-   cd your-repository-folder
+   git clone https://github.com/knathanp/flask_demo.git
+   cd flask_demo
    ```
 
 2. Install the required Python packages:
