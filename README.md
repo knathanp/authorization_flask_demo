@@ -1,11 +1,9 @@
 
 # Flask Authorization Demo Application
 
-This demo Flask application illustrates a simple implementation of Role-Based Access Control (RBAC) and Attribute-Based Access Control (ABAC). The application supports three types of roles: Admin, Editor, and Viewer, each with different levels of access permissions.
+This demo Flask application illustrates a simple implementation of Role-Based Access Control (RBAC) and Attribute-Based Access Control (ABAC). The RBAC application supports three types of roles: Admin, Editor, and Viewer, each with different levels of access permissions. The ABAC application supports three users, each with different attributes, and demonstrates how access control decisions can be made based on user attributes.
 
 This demo is intended to be a starting point for understanding how to implement access control in Flask applications. It is not intended for production use and lacks many features that would be necessary for a real-world application.
-
-This demo is based on the tutorial by [Real Python](https://realpython.com/flask-authorization/).
 
 ## Features
 
