@@ -17,7 +17,7 @@ This demo is intended to be a starting point for understanding how to implement 
 - **Secure Password Handling:** (Note: This demo uses plaintext passwords for simplicity, but in a real-world application, you should hash passwords using a library like `bcrypt` or `argon2`.)
 
 
-
+This demo was created with the help of ChatGPT.
 
 
 ## Getting Started
@@ -32,14 +32,14 @@ This demo is intended to be a starting point for understanding how to implement 
 1. Clone the repository:
 
    ```
-   git clone https://github.com/knathanp/flask_demo.git
-   cd flask_demo
+   git clone https://github.com/knathanp/authorization_flask_demo.git
+   cd authorization_flask_demo
    ```
 
 2. Install the required Python packages:
 
    ```
-   pip install Flask
+   pip install flask
    ```
 
 ### Running the Application
